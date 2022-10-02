@@ -1,2 +1,11 @@
-# SGLT2-HF-ReIPDMeta
-Sodium–Glucose Cotransporter-2 Inhibitors in Patients With Heart Failure
+# Sodium–Glucose Cotransporter-2 Inhibitors in Patients With Heart Failure: A Systematic Review and Meta-analysis
+Xinyu Zou, MB*; Qingyang Shi, MM*; Per Olav Vandvik, MD; Gordon Guyatt, MD; Chim C. Lang, MD; Sameer Parpia, PhD; Si Wang, MD; Arnav Agarwal, MD; Yiling Zhou, MRes; Ye Zhu, MD; Haoming Tian, MM; Zhiming Zhu, MD, PhD; and Sheyu Li, MD
+
+Background: Randomized controlled trials established the cardiac protection of sodium–glucose cotransporter-2 (SGLT2) inhibitors among adults with type 2 diabetes. New evidence suggests that these results could extend to people without diabetes.Purpose: To evaluate the effect of SGLT2 inhibitors in patients with heart failure, regardless of the presence of type 2 diabetes.
+Data Sources: PubMed, Web of Science, Cochrane Library, and Embase (OVID interface).
+Study Selection: Eligible trials randomly assigned adults with heart failure to SGLT2 inhibitors or control.
+Data Extraction: Time-to-event individual patient data were reconstructed from published Kaplan–Meier plots; time-varying risk ratios (RRs) were calculated in half-, 1-, and 2-year time frames; and anticipated absolute benefits were calculated using simple models applying relative effects to baseline risks.Data Synthesis: Sodium–glucose cotransporter-2 inhibitors reduce hospitalization for heart failure by 37% (95% CI, 25% to 47%) at 6 months, 32% (CI, 20% to 42%) at 1 year, and 26% (CI, 10% to 40%) at 2 years (all high certainty) and reduce cardiovascular death by 14% (CI, 1% to 25%) at 1 year (high certainty). Nevertheless, low-certainty evidence did not indicate protection against all-cause death, kidney disease progression, or kidney failure. Anticipated absolute benefits are greater for patients treated in the first year and for those with poorer prognoses, such as those newly diag- nosed with heart failure in the hospital. In addition, SGLT2 inhibitors doubled the risk for genital infections (RR, 2.69 [CI, 1.61 to 4.52]; high certainty).
+Limitation: Covariates were unavailable in meta-analyses with reconstructed individual patient data.
+Conclusion: Among people with heart failure, SGLT2 inhibi- tors reduce hospitalizations for heart failure regardless of the presence of diabetes; absolute benefits are most pronounced in first-year treatment and vary with prognostic factors. Clinicians should note the increased risk for genital infection in patients receiving SGLT2 inhibitors.
+
+Ann Intern Med. doi:10.7326/M21-4284
